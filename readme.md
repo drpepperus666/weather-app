@@ -45,6 +45,6 @@ cd weather-app
 # 3. Создайте файл config.js с вашим API-ключом
 echo "const API_KEY = 'ваш_api_ключ';" > config.js
 
-
 # 4. Откройте index.html в браузере
+
 
