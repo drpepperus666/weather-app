@@ -35,7 +35,6 @@
 
 ## Установка и запуск
 
-### Для локальной разработки:
 ```bash
 # 1. Клонируйте репозиторий
 git clone https://github.com/ваш-username/weather-app.git
@@ -48,3 +47,4 @@ echo "const API_KEY = 'ваш_api_ключ';" > config.js
 
 
 # 4. Откройте index.html в браузере
+
