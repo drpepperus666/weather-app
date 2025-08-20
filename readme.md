@@ -38,13 +38,11 @@
 ```bash
 # 1. Клонируйте репозиторий
 git clone https://github.com/ваш-username/weather-app.git
-
 # 2. Перейдите в папку проекта
 cd weather-app
-
 # 3. Создайте файл config.js с вашим API-ключом
 echo "const API_KEY = 'ваш_api_ключ';" > config.js
-
 # 4. Откройте index.html в браузере
+
 
 
